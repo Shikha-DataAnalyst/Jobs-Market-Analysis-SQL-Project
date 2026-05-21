@@ -90,4 +90,4 @@ These fields were used to perform salary, hiring, and remote work analysis.
 
 ## Author:
 **Shikha Bisht**  
-Aspiring Data Analyst | SQL | Power BI | Excel
+Aspiring Data Analyst | SQL | Power BI | Tableau | Excel
